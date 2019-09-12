@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohcaireog.mobil-line-fahrservice.de/sitemap.xml
